@@ -1,12 +1,11 @@
 #include<stdio.h>
-
 /**
- * main - Prints a text
+ * main - Entr
  *
- * Return: Always 0 (success)
+ * Return: Always (0)
  */
 int main(void)
 {
-	pritntf("with proper grammar, but the outcome is a piece of art,\n");
+	printf("ith proper grammar, but the outcome is a piece of art,\n)";
 	return(0);
 }
